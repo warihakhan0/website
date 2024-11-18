@@ -8,6 +8,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'banner' : "url('../app/banner.jpg')"
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
