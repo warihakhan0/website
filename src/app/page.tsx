@@ -21,8 +21,7 @@ export default function Home() {
     <section id ="header">  
     <div className="bg-[url('../app/banner.jpg')] bg-cover w-[100%] h-[35rem] bg-center place-items-center flex justify-center flex-col">
     <p className="text-white font-serif text-3xl bg-slate-950 p-2 w-2/5 text-center">Get Your Best furnished furniture at your door steps</p>
-    <p className="w-3/4 bg-slate-800 text-white p-4 mt-4 font-serif">
-    Welcome to Furi, where timeless elegance meets quality craftsmanship. Our curated collection of furniture is designed to bring warmth, style, and sophistication to your home. From luxurious sofas to stunning dining sets, each piece is carefully selected to offer both beauty and functionality. Whether you're furnishing a cozy apartment or building your dream home, we have the perfect pieces to elevate your space.
+    <p className="w-3/4 bg-slate-800 text-white p-4 mt-4 font-serif">Welcome to Furi, where timeless elegance meets quality craftsmanship. Our curated collection of furniture is designed to bring warmth, style, and sophistication to your home. From luxurious sofas to stunning dining sets, each piece is carefully selected to offer both beauty and functionality. Whether you&apos;re furnishing a cozy apartment or building your dream home, we have the perfect pieces to elevate your space.
     </p>
     <button className="bg-orange-200 mt-5 p-2 text-fuchsia-950 font-semibold font-serif w-1/4 text-lg"><a href="#products">Buy Now</a></button>
     </div>
@@ -34,8 +33,8 @@ export default function Home() {
         <h2 className="text-2xl text-fuchsia-950 font-serif font-semibold mt-4">
         Modern & Trendy Style
         </h2>
-        <p className="text-base text-black font-serif w-3/4">Discover the latest in contemporary design at Furi. Our furniture collection is inspired by clean lines, minimalism, and bold colors, perfect for modern living. Whether you're updating your living room or reimagining your workspace, our stylish and functional furniture will help you create a space that&apos;s both trendy and comfortable. Come explore the future of furniture today!</p>
-        <h2 className="text-2xl text-fuchsia-950 font-serif font-semibold mt-4">Family-Friendly & Cozy Vibe</h2>
+        <p className="text-base text-black font-serif w-3/4">Discover the latest in contemporary design at Furi. Our furniture collection is inspired by clean lines, minimalism, and bold colors, perfect for modern living. Whether you&apos;re updating your living room or reimagining your workspace, our stylish and functional furniture will help you create a space that&apos;s both trendy and comfortable. Come explore the future of furniture today!</p>
+        <h2 className="text-2xl text-fuchsia-950 font-serif font-semibold mt-4">Family Friendly & Cozy Vibe</h2>
         <p className="text-base text-black font-serif w-3/4">At Furi, we believe your home should be as comfortable as it is beautiful. That&apos;s why we offer a wide selection of durable, family-friendly furniture that suits every lifestyle. From cozy sofas to functional storage solutions, we&apos;re here to help you create a space where memories are made. Whether you&apos;re starting fresh or refreshing your existing pieces, we have what you need to make your home warm and inviting.</p>
         <h2 className="text-2xl text-fuchsia-950 font-serif font-semibold mt-4">Affordable & Value-Focused</h2>
         <p className="text-base text-black font-serif w-3/4">Looking for quality furniture at great prices? Look no further than Furi! Our mission is to bring you stylish, durable furniture without breaking the bank. We believe everyone deserves a beautiful home, which is why we offer a wide range of affordable pieces that don&apos;t compromise on quality. From modern essentials to classic designs, you&apos;ll find everything you need to create the perfect space.</p>
@@ -51,8 +50,8 @@ export default function Home() {
         <h2 className="text-2xl text-fuchsia-950 font-serif font-semibold mt-4">Luxury & High-End</h2>
         <p className="text-base text-black font-serif w-3/4">Indulge in luxury with Furi, where exquisite craftsmanship and refined design meet. Our high-end furniture collection is made from the finest materials, ensuring that every piece is a true work of art. From handcrafted wood to luxurious fabrics, each item is designed to create a space that exudes sophistication and elegance. Let us help you create a home that reflects your exceptional taste.</p>
         <h2 className="text-2xl text-fuchsia-950 font-serif font-semibold mt-4">Customizable & Personalized</h2>
-        <p className="text-base text-black font-serif w-3/4">At Furi, we believe your furniture should be as unique as you are. That's why we offer customizable options for many of our pieces, so you can create the perfect design for your home. Choose from a variety of finishes, fabrics, and configurations to make each item truly your own. Whether you need a custom sofa, a personalized dining table, or custom shelving, we&apos;re here to bring your vision to life.</p>
-        <h2 className="text-2xl text-fuchsia-950 font-serif font-semibold mt-4">Vintage & Retro Style</h2>
+        <p className="text-base text-black font-serif w-3/4">At Furi, we believe your furniture should be as unique as you are. That&apos;s why we offer customizable options for many of our pieces, so you can create the perfect design for your home. Choose from a variety of finishes, fabrics, and configurations to make each item truly your own. Whether you need a custom sofa, a personalized dining table, or custom shelving, we&apos;re here to bring your vision to life.</p>
+        <h2 className="text-2xl text-fuchsia-950 font-serif font-semibold mt-4">Vintage And Retro Style</h2>
         <p className="text-base text-black font-serif w-3/4">Step back in time with Furi, where vintage charm meets modern-day comfort. Our collection of retro-inspired furniture brings classic design into your home, with a touch of nostalgia and style. From mid-century modern to vintage industrial, we offer one-of-a-kind pieces that add character and flair to any room. Explore our timeless collection and create a space that&apos;s both stylish and full of personality.</p>
       </div>
       <Image src={imge} alt="img" height={320} width={320} className="rounded-md"/>
