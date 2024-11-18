@@ -1,5 +1,4 @@
 import Image from "next/image";
-// import banner from "../app/banner.jpg"
 import img from "../app/furni.jpg";
 import imge from "../app/img4.jpg";
 import pro1 from "../app/img.jpg";
@@ -7,6 +6,7 @@ import pro2 from "../app/img2.jpg";
 import pro3 from "../app/img3.jpg";
 import pro4 from "../app/img7.jpg";
 import Link from "next/link"
+
 
 
 export default function Home() {
